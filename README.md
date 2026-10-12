@@ -1,5 +1,7 @@
 # Content Engine
 
+![Content Engine](docs/okladka.png)
+
 Autonomiczny marketing firmy: redaktor planuje i tworzy posty, sędzia ocenia, publikator wypuszcza tylko to, na co jest ważna zgoda, a strażnik sprawdza, czy publikacja naprawdę się pojawiła.
 
 *Autonomous marketing: an editor plans and produces posts, a judge reviews them, a publisher releases only what has a valid approval, and a watchdog checks the post actually went live.*
